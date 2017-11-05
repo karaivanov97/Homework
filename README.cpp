@@ -1,4 +1,4 @@
-u# Homework
+# Homework
 
 1.
 #include <iostream>
@@ -46,7 +46,7 @@ int main() {
   
   3.
   #include <iostream>
-sing namespace std;
+using namespace std;
 int main() {
 
 int n;
